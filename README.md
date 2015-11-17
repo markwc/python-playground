@@ -1,2 +1,2 @@
 # python-playground
-Automate the boring stuff with python
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
