@@ -11,4 +11,4 @@ while True:
             print(arg)
     else:
         print(arguments[0] + ': command not found')
-    
+        print(arguments[0] + '  try test1')
