@@ -1,2 +1,2 @@
 # python-playground
-[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+Reading [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
